@@ -1,5 +1,5 @@
 # Todo List App
-A simple todo list app made by following online tutorial.
+A simple todo list app.
 
 ## What it can do
 1. Add/remove items
